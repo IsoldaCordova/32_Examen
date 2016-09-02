@@ -1,0 +1,27 @@
+a{
+	color: gray;
+	background-color: transparent;
+}
+/*Backgrounds*/
+.bg{
+	background-color: #f2f2f2;
+	height: 4em;
+}
+/*buttons*/
+.nav:hover{
+	background-color: #E6E6E6;
+}
+/*MEDIA*/
+/*// Hasta smartphones de 480px*/
+  @media (max-width: 480px) {
+
+  }
+ 
+  /*// de Smartphones a Tablets*/
+  @media (max-width: 768px) { 
+   }
+ 
+  /*// de Tablets a pantallas de desktops*/
+  @media (min-width: 768px) and (max-width: 980px) {
+
+  }
